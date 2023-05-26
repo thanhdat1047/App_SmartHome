@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802781681201",
+    "firebase_url": "https://pbldemo-51145-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pbldemo-51145",
+    "storage_bucket": "pbldemo-51145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802781681201:android:381b0c8dd8ad838dee6710",
+        "android_client_info": {
+          "package_name": "com.example.demopbl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802781681201-ipnvrngj68ut07depnv4ajomkqk0uji6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKoYYO5BLUWMFTyCV8oLZ6PTpk1uiHFJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802781681201-ipnvrngj68ut07depnv4ajomkqk0uji6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
